@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp",
+        "cmath": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
